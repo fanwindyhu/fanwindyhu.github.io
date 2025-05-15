@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Resume"
+    url: /resume/
+  - title: "Publications"
+    url: /publications/
+  - title: "Academic Photos"
+    url: /academic_photos/
+  - title: "Life Photos"
+    url: /life_photos/
