@@ -17,7 +17,7 @@ seo: false
   <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
     H.M. Zhang, <strong>F. Hu</strong>, Y.F. Duan*, Y. Fang, R.J.J. Cheng, L.N. Cao. A vision-based deformation tracking for self-centering structures during shaking table tests. Engineering Structures, 2025, 330: 119800. 
     <strong><a href="https://doi.org/10.1016/j.engstruct.2025.119800" target="_blank">Link</a></strong> 
-    <strong><a href="https://www.researchgate.net/publication/388954308_A_vision-based_deformation_tracking_for_self-centering_structures_during_shaking_table_tests" target="_blank">Author Accepted Manuscript Link</a></strong>
+    <strong><a href="https://www.researchgate.net/publication/388954308_A_vision-based_deformation_tracking_for_self-centering_structures_during_shaking_table_tests" target="_blank">Accepted Manuscript Link</a></strong>
   </li>
   <li style="list-style-type: disc; margin-left: 0px; font-size: 20px;">
     <strong>Journal Manuscripts</strong>
@@ -40,7 +40,7 @@ seo: false
   <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
     H.M. Zhang, <strong>F. Hu</strong>, Y.F. Duan*, Y. Fang, R.J.J. Cheng, L.N. Cao. A vision-based deformation tracking for self-centering structures during shaking table tests. Engineering Structures, 2025, 330: 119800. 
     <strong><a href="https://doi.org/10.1016/j.engstruct.2025.119800" target="_blank">Link</a></strong> 
-    <strong><a href="https://www.researchgate.net/publication/388954308_A_vision-based_deformation_tracking_for_self-centering_structures_during_shaking_table_tests" target="_blank">Author Accepted Manuscript Link</a></strong>
+    <strong><a href="https://www.researchgate.net/publication/388954308_A_vision-based_deformation_tracking_for_self-centering_structures_during_shaking_table_tests" target="_blank">Accepted Manuscript Link</a></strong>
   </li>
   <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
     H.M. Zhang, Y. Fang, L.N. Cao, <strong>F. Hu</strong>, Y.F. Duan*. Shaking table investigation of pulse-type seismic behavior of a self-centering reinforced concrete frame structure. Engineering Structures, 2025, 325: 119417.
