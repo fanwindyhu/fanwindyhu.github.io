@@ -4,6 +4,7 @@ permalink: /resume/
 author_profile: true
 classes: wide
 show_heading_anchors: false
+nav_exclude: true
 seo: false
 ---
 <span style="font-size: 24px;"><strong>EDUCATION</strong></span>
