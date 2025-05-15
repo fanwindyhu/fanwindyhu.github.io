@@ -2,8 +2,6 @@
 layout: single
 permalink: /resume/
 author_profile: true
-nav_exclude: true
-title: ""
 classes: wide
 show_heading_anchors: false
 seo: false
