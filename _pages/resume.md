@@ -6,6 +6,7 @@ nav_exclude: true
 title: ""
 classes: wide
 show_heading_anchors: false
+seo: false
 ---
 <span style="font-size: 24px;"><strong>EDUCATION</strong></span>
 ---
