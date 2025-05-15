@@ -3,8 +3,6 @@
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
-
-<!-- 添加 GitHub 链接 -->
     <li><a href="https://github.com/fanwindyhu" target="_blank">
       <i class="fab fa-github"></i> GitHub</a></li>
 
@@ -17,15 +15,26 @@
     {% endif %}
 
     {% unless site.atom_feed.hide %}
-      <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+      <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}">
+        <i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
     {% endunless %}
   </ul>
 </div>
 
-<!-- 访问量统计显示 -->
-This site has been viewed <span id="busuanzi_value_site_pv"></span> times by <span id="busuanzi_value_site_uv"></span> unique visitors.
+<!-- 页脚版权 + 访问量右对齐 -->
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; font-size: 0.85em; color: #999;">
+  <div>
+    &copy; {{ site.time | date: '%Y' }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: "Fan Hu, Ph.D."}}</a>.
+    {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }}
+    <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp;
+    <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.
+  </div>
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: "Fan Hu, Ph.D."}}</a>. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+  <div style="text-align: right;">
+    <span id="busuanzi_container_site_pv">Viewed <span id="busuanzi_value_site_pv"></span> times</span>,
+    <span id="busuanzi_container_site_uv"><span id="busuanzi_value_site_uv"></span> visitors</span>
+  </div>
+</div>
 
-<!-- Busuanzi 脚本 -->
+<!-- Busuanzi script -->
 <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
