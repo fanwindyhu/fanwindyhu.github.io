@@ -23,13 +23,13 @@ seo: false
     <strong>Journal Manuscripts</strong>
   </li>
   <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
-    <strong>F. Hu</strong>, Y.F. Duan*, H.M. Zhang*, M.L. Tian, Y.G. Fu, J.X. Cao, R.J.J. Cheng. Kalman filter-aided transformer: a rapid predictive-correction method for gap deformation measurement of self-centering joints. (Under Review)
+    <strong>F. Hu</strong>, Y.F. Duan, H.M. Zhang*, et al. Kalman filter-aided transformer: a rapid predictive-correction method for gap deformation measurement of self-centering joints. (Under Review)
   </li>
   <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
-    <strong>F. Hu</strong>, H.M. Zhang*, Y.F. Duan*, M.L. Tian, Y.G. Fu, J.X. Cao, R.J.J. Cheng. Physics-informed neural networks with Bouc-Wen model constraints for hysteretic behavior prediction of self-centering frame structures. (Under Review)
+    <strong>F. Hu</strong>, H.M. Zhang, Y.F. Duan*, et al. Physics-informed neural networks with Bouc-Wen model constraints for hysteretic behavior prediction of self-centering frame structures. (Under Review)
   </li>
   <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
-    Y.F. Duan, M.L. Tian, <strong>F. Hu</strong>, R.J.J. Cheng*. Seismic performance evaluation of self-centering RC joints using VFIFE method with a new hysteretic model for plastic hinge. (Under Review)
+    H.M. Zhang, M.L. Tian, Y.F Duan*, <strong>F. Hu</strong>, Y. Fang, Y.Z. Wang. A VFIFE-link element for seismic simulation of self-centering joints with pseudo-dynamic validation. (Under Review)
   </li>
   <li style="list-style-type: disc; margin-left: 0px; font-size: 20px;">
     <strong>Full List of Journal Publications</strong>
@@ -92,5 +92,6 @@ seo: false
     <strong>F. Hu</strong>, H.M. Zhang*, Y.F. Duan. Nonlinear adaptive genetic algorithm for parameter identification of Bouc–Wen model for RC shear walls. The 2nd ZHITU Symposium on Advances in Civil Engineering, Ulsan, South Korea, Sept 28–29, 2021.
   </li>
 </ul>
+
 
 
