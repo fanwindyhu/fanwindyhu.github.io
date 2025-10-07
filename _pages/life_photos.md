@@ -7,8 +7,9 @@ show_heading_anchors: false
 ---
 <figure>
   <img src="/assets/images/life1.jpg" alt="Research photo" width="500">
-  <figcaption style="text-align:center; font-style:italic;">
+  <figcaption style="display:block; text-align:center; font-style:italic; width:100%;">
   Dinner party of Prof. Duan's group, Zhejiang University, Hangzhou, China, Nov 27, 2024.
   </figcaption>
 </figure>
+
 
