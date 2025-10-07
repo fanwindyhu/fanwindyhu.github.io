@@ -29,10 +29,10 @@ seo: false
 ---
 <ul style="margin-top: 0; margin-bottom: 0;">
   <li style="list-style-type: disc; margin-left: 0px; font-size: 20px;">
-    <strong>Intern, Monitoring and Control Hangzhou Co., Ltd., Hangzhou, China, Jul 2023–Aug 2023</strong>
+    <strong>Postdoctoral Fellow, Nanyang Technological University, Singapore, Sep 2025-now</strong>
   </li>
   <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
-    Designed and fabricated self-centering joint structures and conducted quasi-static tests to evaluate their performance.
+    Research on computer vision-aided model updating and further digital twin.
   </li>
   <li style="list-style-type: disc; margin-left: 0px; font-size: 20px;">
     <strong>Intern, Monitoring and Control Hangzhou Co., Ltd., Hangzhou, China, Jul 2023–Aug 2023</strong>
@@ -99,6 +99,7 @@ seo: false
     China National Scholarship, 2016/2017 (two times).
   </li>
 </ul>
+
 
 
 
