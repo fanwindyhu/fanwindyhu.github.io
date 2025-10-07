@@ -29,7 +29,7 @@ seo: false
 ---
 <ul style="margin-top: 0; margin-bottom: 0;">
   <li style="list-style-type: disc; margin-left: 0px; font-size: 20px;">
-    <strong>Postdoctoral Fellow, Nanyang Technological University, Singapore, Sep 2025-now</strong>
+    <strong>Postdoctoral Fellow, Nanyang Technological University, Singapore, Sep 2025-Now</strong>
   </li>
   <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
     Research on computer vision-aided model updating and further digital twin.
@@ -99,6 +99,7 @@ seo: false
     China National Scholarship, 2016/2017 (two times).
   </li>
 </ul>
+
 
 
 
