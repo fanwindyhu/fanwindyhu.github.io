@@ -35,6 +35,12 @@ seo: false
     Designed and fabricated self-centering joint structures and conducted quasi-static tests to evaluate their performance.
   </li>
   <li style="list-style-type: disc; margin-left: 0px; font-size: 20px;">
+    <strong>Intern, Monitoring and Control Hangzhou Co., Ltd., Hangzhou, China, Jul 2023–Aug 2023</strong>
+  </li>
+  <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
+    Designed and fabricated self-centering joint structures and conducted quasi-static tests to evaluate their performance.
+  </li>
+  <li style="list-style-type: disc; margin-left: 0px; font-size: 20px;">
     <strong>Teaching Assistant, Zhejiang University, Hangzhou, China, Nov 2020–Jun 2021</strong>
   </li>
   <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
@@ -93,5 +99,6 @@ seo: false
     China National Scholarship, 2016/2017 (two times).
   </li>
 </ul>
+
 
 
