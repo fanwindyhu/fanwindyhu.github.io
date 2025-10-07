@@ -12,7 +12,7 @@ seo: false
 ---
 <ul style="margin-top: 0; margin-bottom: 0;">
   <li style="list-style-type: disc; margin-left: 0px; font-size: 20px;">
-    <strong>Ph.D., Zhejiang University, Hangzhou, China, Sept 2019–Jun 2025</strong>
+    <strong>Ph.D., Zhejiang University, Hangzhou, China, Sep 2019–Jun 2025</strong>
   </li>
   <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
     Civil Engineering, Supervisors: <strong>Prof. Yuanfeng Duan, Prof. Hongmei Zhang</strong>
@@ -99,6 +99,7 @@ seo: false
     China National Scholarship, 2016/2017 (two times).
   </li>
 </ul>
+
 
 
 
