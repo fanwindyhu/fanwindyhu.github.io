@@ -15,7 +15,7 @@ seo: false
     <strong>Representative Journal Publications</strong>
   </li>
   <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
-    H.M. Zhang, <strong>F. Hu</strong>, Y.F. Duan*, Y. Fang, R.J.J. Cheng, L.N. Cao. A vision-based deformation tracking for self-centering structures during shaking table tests. Engineering Structures, 2025, 330: 119800. 
+    H.M. Zhang, <strong>F. Hu</strong>, Y.F. Duan*, Y. Fang, J.J.R. Cheng, L.N. Cao. A vision-based deformation tracking for self-centering structures during shaking table tests. Engineering Structures, 2025, 330: 119800. 
     <strong><a href="https://doi.org/10.1016/j.engstruct.2025.119800" target="_blank">Link</a></strong> 
     <strong><a href="https://www.researchgate.net/publication/388954308_A_vision-based_deformation_tracking_for_self-centering_structures_during_shaking_table_tests" target="_blank">Accepted Manuscript Link</a></strong>
   </li>
@@ -38,7 +38,7 @@ seo: false
     <strong>2025</strong>
   </li>
   <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
-    H.M. Zhang, <strong>F. Hu</strong>, Y.F. Duan*, Y. Fang, R.J.J. Cheng, L.N. Cao. A vision-based deformation tracking for self-centering structures during shaking table tests. Engineering Structures, 2025, 330: 119800. 
+    H.M. Zhang, <strong>F. Hu</strong>, Y.F. Duan*, Y. Fang, J.J.R. Cheng, L.N. Cao. A vision-based deformation tracking for self-centering structures during shaking table tests. Engineering Structures, 2025, 330: 119800. 
     <strong><a href="https://doi.org/10.1016/j.engstruct.2025.119800" target="_blank">Link</a></strong> 
     <strong><a href="https://www.researchgate.net/publication/388954308_A_vision-based_deformation_tracking_for_self-centering_structures_during_shaking_table_tests" target="_blank">Accepted Manuscript Link</a></strong>
   </li>
@@ -92,6 +92,7 @@ seo: false
     <strong>F. Hu</strong>, H.M. Zhang*, Y.F. Duan. Nonlinear adaptive genetic algorithm for parameter identification of Bouc–Wen model for RC shear walls. The 2nd ZHITU Symposium on Advances in Civil Engineering, Ulsan, South Korea, Sept 28–29, 2021.
   </li>
 </ul>
+
 
 
 
