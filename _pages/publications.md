@@ -29,7 +29,13 @@ seo: false
     <strong>F. Hu</strong>, H.M. Zhang, Y.F. Duan*, et al. Physics-informed neural networks with Bouc-Wen model constraints for hysteretic behavior prediction of self-centering frame structures. (Under Review)
   </li>
   <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
+    <strong>F. Hu</strong>, Y.F. Duan*, G.Z. Xu, et al. Two-stage physics-augmented neural framework for influence line driven damage identification in bridge structures. (Under Review)
+  </li>
+  <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
     H.M. Zhang, M.L. Tian, Y.F Duan*, <strong>F. Hu</strong>, Y. Fang, Y.Z. Wang. A VFIFE-link element for seismic simulation of self-centering joints with pseudo-dynamic validation. (Under Review)
+  </li>
+  <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
+    H.M. Zhang, Y.Z. Wang, Y. Fang*, <strong>F. Hu</strong>, M.L. Tian. Innovative synergistic seismic performance enhancement of self-centering frame joints using high-toughness steel fiber reinforced concrete. (Under Review)
   </li>
   <li style="list-style-type: disc; margin-left: 0px; font-size: 20px;">
     <strong>Full List of Journal Publications</strong>
@@ -92,6 +98,7 @@ seo: false
     <strong>F. Hu</strong>, H.M. Zhang*, Y.F. Duan. Nonlinear adaptive genetic algorithm for parameter identification of Bouc–Wen model for RC shear walls. The 2nd ZHITU Symposium on Advances in Civil Engineering, Ulsan, South Korea, Sept 28–29, 2021.
   </li>
 </ul>
+
 
 
 
