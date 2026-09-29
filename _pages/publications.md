@@ -28,10 +28,10 @@ seo: false
     <strong>Journal Manuscripts</strong>
   </li>
   <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
-    <strong>F. Hu</strong>, H.M. Zhang, Y.F. Duan*, et al. Physics-informed neural networks with Bouc-Wen model constraints for hysteretic behavior prediction of self-centering frame structures. (Under Review)
+    <strong>F. Hu</strong>, H.M. Zhang*, Y.F. Duan, et al. Error-calibrated and code-informed surrogate-assisted design screening of self-centering frames. (Under Review)
   </li>
   <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
-    <strong>F. Hu</strong>, Y.F. Duan*, G.Z. Xu, et al. Two-stage physics-augmented neural framework for influence line driven damage identification in bridge structures. (Under Review)
+    <strong>F. Hu</strong>, Y.P. Yu, G.Z. Xu, Y.F. Duan*, et al. Identifiability of Girder and Stay-Cable Damage from Deflection Influence Lines in a Six-Tower Cable-Stayed Bridge. (Under Review)
   </li>
   <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
     H.M. Zhang, Y.Z. Wang, Y. Fang*, <strong>F. Hu</strong>, M.L. Tian. Innovative synergistic seismic performance enhancement of self-centering frame joints using high-toughness steel fiber reinforced concrete. (Under Review)
