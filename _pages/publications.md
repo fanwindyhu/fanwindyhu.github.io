@@ -26,6 +26,7 @@ seo: false
   </li>
   <li style="list-style-type: disc; margin-left: 0px; font-size: 20px;">
     <strong>Journal Manuscripts</strong>
+  </li>
   <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
     <strong>F. Hu</strong>, H.M. Zhang, Y.F. Duan*, et al. Physics-informed neural networks with Bouc-Wen model constraints for hysteretic behavior prediction of self-centering frame structures. (Under Review)
   </li>
