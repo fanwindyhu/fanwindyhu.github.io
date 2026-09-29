@@ -15,16 +15,17 @@ seo: false
     <strong>Representative Journal Publications</strong>
   </li>
   <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
+    <strong>F. Hu</strong>, Y.F. Duan, H.M. Zhang*, Y. Fang, J.J.R. Cheng. Kalman filter-aided vision transformer for seismic deformation measurement of self-centering structures. Mechanical Systems and Signal Processing, 2026, 258: 114676. 
+    <strong><a href="https://doi.org/10.1016/j.ymssp.2026.114676" target="_blank">Link</a></strong> 
+    <strong><a href="https://www.researchgate.net/publication/411075634_Kalman_filter-aided_vision_transformer_for_seismic_deformation_measurement_of_self-centering_structures" target="_blank">Accepted Manuscript Link</a></strong>
+  </li>
+  <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
     H.M. Zhang, <strong>F. Hu</strong>, Y.F. Duan*, Y. Fang, J.J.R. Cheng, L.N. Cao. A vision-based deformation tracking for self-centering structures during shaking table tests. Engineering Structures, 2025, 330: 119800. 
     <strong><a href="https://doi.org/10.1016/j.engstruct.2025.119800" target="_blank">Link</a></strong> 
     <strong><a href="https://www.researchgate.net/publication/388954308_A_vision-based_deformation_tracking_for_self-centering_structures_during_shaking_table_tests" target="_blank">Accepted Manuscript Link</a></strong>
   </li>
   <li style="list-style-type: disc; margin-left: 0px; font-size: 20px;">
     <strong>Journal Manuscripts</strong>
-  </li>
-  <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
-    <strong>F. Hu</strong>, Y.F. Duan, H.M. Zhang*, et al. Kalman filter-aided transformer: a rapid predictive-correction method for gap deformation measurement of self-centering joints. (Under Review)
-  </li>
   <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
     <strong>F. Hu</strong>, H.M. Zhang, Y.F. Duan*, et al. Physics-informed neural networks with Bouc-Wen model constraints for hysteretic behavior prediction of self-centering frame structures. (Under Review)
   </li>
@@ -32,13 +33,22 @@ seo: false
     <strong>F. Hu</strong>, Y.F. Duan*, G.Z. Xu, et al. Two-stage physics-augmented neural framework for influence line driven damage identification in bridge structures. (Under Review)
   </li>
   <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
-    H.M. Zhang, M.L. Tian, Y.F Duan*, <strong>F. Hu</strong>, Y. Fang, Y.Z. Wang. A VFIFE-link element for seismic simulation of self-centering joints with pseudo-dynamic validation. (Under Review)
-  </li>
-  <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
     H.M. Zhang, Y.Z. Wang, Y. Fang*, <strong>F. Hu</strong>, M.L. Tian. Innovative synergistic seismic performance enhancement of self-centering frame joints using high-toughness steel fiber reinforced concrete. (Under Review)
   </li>
   <li style="list-style-type: disc; margin-left: 0px; font-size: 20px;">
     <strong>Full List of Journal Publications</strong>
+  </li>
+  <li style="list-style-type: square; margin-left: 20px; font-size: 20px;">
+    <strong>2026</strong>
+  </li>
+  <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
+    <strong>F. Hu</strong>, Y.F. Duan, H.M. Zhang*, Y. Fang, J.J.R. Cheng. Kalman filter-aided vision transformer for seismic deformation measurement of self-centering structures. Mechanical Systems and Signal Processing, 2026, 258: 114676. 
+    <strong><a href="https://doi.org/10.1016/j.ymssp.2026.114676" target="_blank">Link</a></strong> 
+    <strong><a href="https://www.researchgate.net/publication/411075634_Kalman_filter-aided_vision_transformer_for_seismic_deformation_measurement_of_self-centering_structures" target="_blank">Accepted Manuscript Link</a></strong>
+  </li>
+  <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
+    H.M. Zhang, M.L. Tian, Y.F Duan*, <strong>F. Hu</strong>, Y. Fang, Y.Z. Wang. A VFIFE-link element for seismic simulation of self-centering joints with pseudo-dynamic validation. International Journal of Damage Mechanics, 2026.
+    <strong><a href="https://doi.org/10.1177/10567895261465956" target="_blank">Link</a></strong>
   </li>
   <li style="list-style-type: square; margin-left: 20px; font-size: 20px;">
     <strong>2025</strong>
