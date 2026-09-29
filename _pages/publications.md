@@ -107,6 +107,7 @@ seo: false
   <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
     <strong>F. Hu</strong>, H.M. Zhang*, Y.F. Duan. Nonlinear adaptive genetic algorithm for parameter identification of Bouc–Wen model for RC shear walls. The 2nd ZHITU Symposium on Advances in Civil Engineering, Ulsan, South Korea, Sept 28–29, 2021.
   </li>
+</ul>
 
 
 
