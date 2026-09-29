@@ -32,7 +32,7 @@ seo: false
     <strong>Post-Doctoral Fellow, Nanyang Technological University, Singapore, Sep 2025-Now</strong>
   </li>
   <li style="list-style-type: circle; margin-left: 45px; font-size: 18px;">
-    Research on computer vision-aided model updating and further digital twin.
+    Research on computer vision-based crack depth estimation and offshore smart connector.
   </li>
   <li style="list-style-type: disc; margin-left: 0px; font-size: 20px;">
     <strong>Intern, Monitoring and Control Hangzhou Co., Ltd., Hangzhou, China, Jul 2023–Aug 2023</strong>
